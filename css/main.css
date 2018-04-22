@@ -46,7 +46,7 @@ side.sidebar li
 { padding-bottom: 10px; }
 side.sidebar img
 {
-	margin-top: 20px;
+	margin: 20px;
 	border: white solid 5px;
 }
 
@@ -56,12 +56,6 @@ side.sidebar img
 	margin-left: 280px;
 	margin-right: 80px;
 	min-height: 100%;
-}
-.content .LeadIn
-{
-	font-weight: bold;
-	font-size: large;
-	font-variant: small-caps;
 }
 .content h1
 {
@@ -75,8 +69,6 @@ side.sidebar img
 	margin-bottom: 2px;
 	font-size: medium;
 }
-.content p
-{ margin-top: 0px; }
 
 footer
 {
@@ -87,7 +79,7 @@ footer
 	text-align: center;
 	font-size: x-small;  
 	clear: both;
-	bottom: 0;
+	bottom: 0px;
 	width: 100%;
 }
 footer .disclaimer
